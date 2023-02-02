@@ -3,7 +3,7 @@
 
 ![DataAnalysisWorkflow](https://github.com/aashisharora13/Customer-Churn-Analysis/blob/main/Data%20Analysis%20Workflow.png)
 
-***Step 1 - Data Check***
+<UL> ***Step 1 - Data Check*** </UL>
 
 This step can be divided into 2 sub steps a.) Check for duplicate or missing values b.) Do a sense check with other internal data sources.
 
