@@ -1,4 +1,4 @@
 # Customer Churn Analysis
 **Data Analysis workflow**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bc99dc85-d5d1-4907-8da5-1ecc041c89b6/Untitled.png)
+![DataAnalysisWorkflow](https://github.com/aashisharora13/Customer-Churn-Analysis/blob/main/Data%20Analysis%20Workflow.png)
