@@ -44,3 +44,5 @@ Churn Rate = customers lost / total number of customers within a certain time pe
 - ~45% of the reasons why customers churn is related to competitors
 - The churn rate in California is abnormally high (>60%)
 - Senior Citizens churn more often then average with churn rate of 38.46%
+
+***Data Visualization using Power BI***
