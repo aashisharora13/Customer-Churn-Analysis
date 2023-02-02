@@ -46,3 +46,10 @@ Churn Rate = customers lost / total number of customers within a certain time pe
 - Senior Citizens churn more often then average with churn rate of 38.46%
 
 <ins>Data Visualization using Power BI</ins>
+
+![Churn Rate Analysis Overview](https://github.com/aashisharora13/Customer-Churn-Analysis/blob/main/Overview.png)
+![Demographic Analysis](https://github.com/aashisharora13/Customer-Churn-Analysis/blob/main/Demographic%20Analysis.png)
+![Contract Type Analysis](https://github.com/aashisharora13/Customer-Churn-Analysis/blob/main/Contract%20Type%20Analysis.png)
+![Insights](https://github.com/aashisharora13/Customer-Churn-Analysis/blob/main/Insights.png)
+
+
